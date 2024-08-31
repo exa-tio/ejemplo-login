@@ -11,13 +11,13 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background: blue;
+  background: #191919;
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 50px 50px;
 }
 .container h1{
-  color: yellow;
+  color: white;
   font-weight: 500;
 
 }
